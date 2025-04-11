@@ -12,7 +12,7 @@
 
 <div align="center">  
 <a href="https://github.com/MariaSantiagoo">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MariaSantiagoo&border_radius=4.5&title_color=ffd5f8&show_icons=true&icon_color=ffd5f8&text_color=DCDCDC&theme=dark&bg_color=fcf5ff&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MariaSantiagoo&border_radius=4.5&title_color=ff9eef&show_icons=true&icon_color=ff9eef&text_color=DCDCDC&theme=dark&bg_color=fcf5ff&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaSantiagoo&layout=compact&langs_count=17&border_radius=4.5&title_color=90D5FF&icon_color=90D5FF&text_color=DCDCDC&theme=dark"/>
 
 
