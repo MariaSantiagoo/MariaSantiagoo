@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffd5f8&color=ffe5fb&height=75&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff9eef&size=35&center=true&vCenter=true&width=1000&lines=I+study+systems+development+at+SENAI;Take+a+look+here+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff9eef&size=35&center=true&vCenter=true&width=1000&lines=Eu+estudo+desenvolvimento+de+sistemas+no+SENAI;Dê+uma+alhada+aqui+:%29)](https://git.io/typing-svg) 
 
 
 ## Oi! Sou Maria Santiago!  ![](https://komarev.com/ghpvc/?username=MariaSantiagoo&style=for-the-badge)
