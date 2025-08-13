@@ -5,7 +5,7 @@
 
 ## Oi! Sou Maria Santiago!  ![](https://komarev.com/ghpvc/?username=MariaSantiagoo&style=for-the-badge)
 
-- 🔭 Atualmente estou estudando Git e Github
+- 🔭 Atualmente estou estudando UI e UX
 - 💬 Contato com mariaasantiago0210@gmail.com
 
 <div></div>
