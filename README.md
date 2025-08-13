@@ -5,7 +5,9 @@
 
 ## Oi! Sou Maria Santiago!  ![](https://komarev.com/ghpvc/?username=MariaSantiagoo&style=for-the-badge)
 
-- 🔭 Atualmente estou estudando UI e UX
+- ✏️ Gosto de desenhar
+- 📓 Tenho nível intermediário em inglês
+- 🔭 Atualmente estou estudando UI e UX (Desing) 
 - 💬 Contato com mariaasantiago0210@gmail.com
 
 <div></div>
